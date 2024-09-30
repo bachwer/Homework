@@ -1,6 +1,6 @@
 # Homework
 #scratch
-[Cơ bản]1. Làm quen với Scratch
+*[Cơ bản]1. Làm quen với Scratch
 https://scratch.mit.edu/projects/1074656474/
 [Cơ bản]2. Làm quen với Scratch
 https://scratch.mit.edu/projects/1074862598/
