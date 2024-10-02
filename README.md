@@ -1,4 +1,4 @@
-# Homework
+# Homework 1
 #scratch Session 01 - Tổng quan về Scratch
 
 [Cơ bản]1. Làm quen với Scratch
